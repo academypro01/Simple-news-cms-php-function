@@ -1,0 +1,4 @@
+Options -Indexes
+ErrorDocument 403 /phpCourse/404.php
+ErrorDocument 404 /phpCourse/404.php
+Header append X-Frame-Options: "SAMEORIGIN"
